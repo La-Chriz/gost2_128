@@ -1,3 +1,5 @@
+// Author Lasse Christens
+
 #ifndef GOST2_128_H
 #define GOST2_128_H
 
